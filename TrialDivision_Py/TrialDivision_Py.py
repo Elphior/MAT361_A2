@@ -41,7 +41,7 @@ def factorization(p, e, primes, n):
 
 if __name__ == "__main__":
     print("MAT361 Fall 2023: Sieve of Eratosthenes & Unique Factorization - Sungmin Moon")
-    print ("This program is(or will be) uploaded in https://github.com/Elphior/MAT361_A2.git")
+    print ("This program is uploaded in https://github.com/Elphior/MAT361_A2.git")
     num = int(input("Enter the number to factorize: "))
     print()
     print("Prime factorization of", num, ":")
